@@ -5,6 +5,7 @@
       "type": "Feature",
       "properties": {
         "title": "Cove 2",
+        "type": "divesite",
         "description": "Seacrest Park, Cove 2",
         "videos": "http://vimeo.com/66539453",
         "marker-size": "medium",
@@ -19,6 +20,7 @@
       "type": "Feature",
       "properties": {
         "title": "Monster Outflow",
+        "type": "stormdrain",
         "description": "Monster Outflow",
         "marker-size": "medium",
         "marker-color": "#44f"
