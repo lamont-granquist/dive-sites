@@ -6,15 +6,28 @@
       "properties": {
         "title": "Cove 2",
         "description": "Seacrest Park, Cove 2",
-        "customfield": "what does this do?",
         "videos": "http://vimeo.com/66539453",
-        "marker-size": "medium",
+        "marker-size": "small",
         "marker-color": "#f44",
         "marker-symbol": "marker-stroked"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [ -122.379692, 47.588836 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Monster Outflow",
+        "description": "Monster Outflow",
+        "marker-size": "small",
+        "marker-color": "#44f",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -122.406358, 47.58344 ]
       }
     }
   ]
