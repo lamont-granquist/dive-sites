@@ -6,7 +6,7 @@
       "properties": {
         "title": "Cove 2",
         "description": "Seacrest Park, Cove 2",
-        "videos": "http://vimeo.com/66539453",
+        "videos": "<a href=\"http://vimeo.com/66539453\">Video</a>",
         "marker-size": "medium",
         "marker-color": "#f44"
       },
