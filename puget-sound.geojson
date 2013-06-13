@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Cove 2",
+        "description": "Seacrest Park, Cove 2",
+        "customfield": "what does this do?",
+        "marker-size": "medium",
+        "marker-color": "#f44",
+        "marker-symbol": "marker-stroked"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -122.379692, 47.588836 ]
+      }
+    }
+  ]
+}
+
+
