@@ -7,7 +7,7 @@
         "title": "Cove 2",
         "description": "Seacrest Park, Cove 2",
         "videos": "http://vimeo.com/66539453",
-        "marker-size": "small",
+        "marker-size": "medium",
         "marker-color": "#f44",
         "marker-symbol": "marker-stroked"
       },
@@ -21,7 +21,7 @@
       "properties": {
         "title": "Monster Outflow",
         "description": "Monster Outflow",
-        "marker-size": "small",
+        "marker-size": "medium",
         "marker-color": "#44f",
         "marker-symbol": "water"
       },
