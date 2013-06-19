@@ -4,16 +4,127 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Cove 1",
+        "type": "divesite",
+        "description": "Seacrest Park, Cove 1",
+        "marker-size": "medium",
+        "marker-color": "#f44"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -122.377734, 47.587558 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Cove 2",
         "type": "divesite",
         "description": "Seacrest Park, Cove 2",
-        "videos": "http://vimeo.com/66539453",
         "marker-size": "medium",
         "marker-color": "#f44"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [ -122.379692, 47.588836 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Cove 3",
+        "type": "divesite",
+        "description": "Seacrest Park, Cove 3",
+        "marker-size": "medium",
+        "marker-color": "#f44"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -122.381054, 47.590429 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Duwamish Head",
+        "type": "divesite",
+        "description": "Duwamish Head",
+        "marker-size": "medium",
+        "marker-color": "#f44"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -122.38812, 47.595317 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Alki Junkyard",
+        "type": "divesite",
+        "description": "Alki Junkyard",
+        "marker-size": "medium",
+        "marker-color": "#f44"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -122.415928, 47.578561 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Alki Pipeline",
+        "type": "divesite",
+        "description": "Alki Pipeline",
+        "marker-size": "medium",
+        "marker-color": "#f44"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -122.414536, 47.571837 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Cormorant Cove",
+        "type": "divesite",
+        "description": "Cormorant Cove",
+        "marker-size": "medium",
+        "marker-color": "#f44"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -122.411878, 47.570903 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Weatherwatch Park",
+        "type": "divesite",
+        "description": "Weatherwatch Park",
+        "marker-size": "medium",
+        "marker-color": "#f44"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -122.410194, 47.567575 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Andover Place",
+        "type": "divesite",
+        "description": "Andover Place",
+        "marker-size": "medium",
+        "marker-color": "#f44"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -122.410064, 47.568665 ]
       }
     },
     {
