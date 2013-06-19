@@ -158,6 +158,34 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Jack Block Park",
+        "type": "divesite",
+        "description": "Jack Block Park",
+        "marker-size": "medium",
+        "marker-color": "#f44"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -122.371994, 47.583655 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Leschi Wall",
+        "type": "divesite",
+        "description": "Leschi Wall",
+        "marker-size": "medium",
+        "marker-color": "#f44"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -122.280525, 47.608755 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Monster Outflow",
         "type": "stormdrain",
         "description": "Monster Outflow (Location Appx)",
