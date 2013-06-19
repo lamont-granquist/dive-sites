@@ -186,6 +186,48 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Edmonds Underwater Park",
+        "type": "divesite",
+        "description": "Edmonds Underwater Park",
+        "marker-size": "medium",
+        "marker-color": "#f44"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -122.384723, 47.814603 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Les Davis",
+        "type": "divesite",
+        "description": "Les Davis",
+        "marker-size": "medium",
+        "marker-color": "#f44"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -122.48466, 47.283938 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Day Island Wall",
+        "type": "divesite",
+        "description": "Day Island Wall",
+        "marker-size": "medium",
+        "marker-color": "#f44"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -122.565837, 47.242797 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Monster Outflow",
         "type": "stormdrain",
         "description": "Monster Outflow (Location Appx)",
