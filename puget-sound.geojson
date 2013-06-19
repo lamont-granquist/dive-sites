@@ -130,9 +130,37 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Mee-Kwa-Mooks Park",
+        "type": "divesite",
+        "description": "Mee-Kwa-Mooks Park",
+        "marker-size": "medium",
+        "marker-color": "#f44"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -122.407656, 47.563549 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Alki Fishing Reef",
+        "type": "divesite",
+        "description": "Alki Fishing Reef (Location Appx)",
+        "marker-size": "medium",
+        "marker-color": "#f44"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -122.408767, 47.557313 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Monster Outflow",
         "type": "stormdrain",
-        "description": "Monster Outflow",
+        "description": "Monster Outflow (Location Appx)",
         "marker-size": "medium",
         "marker-color": "#44f"
       },
