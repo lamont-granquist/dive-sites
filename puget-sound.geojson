@@ -5,7 +5,7 @@
       "type": "Feature",
       "properties": {
         "title": "Cove 1",
-        "type": "divesite",
+        "tags": [ "shore" ]
         "description": "Seacrest Park, Cove 1",
         "marker-size": "medium",
         "marker-color": "#f44"
@@ -19,7 +19,7 @@
       "type": "Feature",
       "properties": {
         "title": "Cove 2",
-        "type": "divesite",
+        "tags": [ "shore" ]
         "description": "Seacrest Park, Cove 2",
         "marker-size": "medium",
         "marker-color": "#f44"
@@ -33,7 +33,7 @@
       "type": "Feature",
       "properties": {
         "title": "Cove 3",
-        "type": "divesite",
+        "tags": [ "shore" ]
         "description": "Seacrest Park, Cove 3",
         "marker-size": "medium",
         "marker-color": "#f44"
@@ -47,7 +47,7 @@
       "type": "Feature",
       "properties": {
         "title": "Duwamish Head",
-        "type": "divesite",
+        "tags": [ "shore" ]
         "description": "Duwamish Head",
         "marker-size": "medium",
         "marker-color": "#f44"
@@ -61,7 +61,7 @@
       "type": "Feature",
       "properties": {
         "title": "Alki Junkyard",
-        "type": "divesite",
+        "tags": [ "shore" ]
         "description": "Alki Junkyard",
         "marker-size": "medium",
         "marker-color": "#f44"
@@ -75,7 +75,7 @@
       "type": "Feature",
       "properties": {
         "title": "Alki Pipeline",
-        "type": "divesite",
+        "tags": [ "shore" ]
         "description": "Alki Pipeline",
         "marker-size": "medium",
         "marker-color": "#f44"
@@ -89,7 +89,7 @@
       "type": "Feature",
       "properties": {
         "title": "Cormorant Cove",
-        "type": "divesite",
+        "tags": [ "shore" ]
         "description": "Cormorant Cove",
         "marker-size": "medium",
         "marker-color": "#f44"
@@ -103,7 +103,7 @@
       "type": "Feature",
       "properties": {
         "title": "Weatherwatch Park",
-        "type": "divesite",
+        "tags": [ "shore" ]
         "description": "Weatherwatch Park",
         "marker-size": "medium",
         "marker-color": "#f44"
@@ -117,7 +117,7 @@
       "type": "Feature",
       "properties": {
         "title": "Andover Place",
-        "type": "divesite",
+        "tags": [ "shore" ]
         "description": "Andover Place",
         "marker-size": "medium",
         "marker-color": "#f44"
@@ -131,7 +131,7 @@
       "type": "Feature",
       "properties": {
         "title": "Mee-Kwa-Mooks Park",
-        "type": "divesite",
+        "tags": [ "shore" ]
         "description": "Mee-Kwa-Mooks Park",
         "marker-size": "medium",
         "marker-color": "#f44"
@@ -145,7 +145,7 @@
       "type": "Feature",
       "properties": {
         "title": "Alki Fishing Reef",
-        "type": "divesite",
+        "tags": [ "shore", "boat" ]
         "description": "Alki Fishing Reef (Location Appx)",
         "marker-size": "medium",
         "marker-color": "#f44"
@@ -159,7 +159,7 @@
       "type": "Feature",
       "properties": {
         "title": "Jack Block Park",
-        "type": "divesite",
+        "tags": [ "shore" ]
         "description": "Jack Block Park",
         "marker-size": "medium",
         "marker-color": "#f44"
@@ -173,7 +173,7 @@
       "type": "Feature",
       "properties": {
         "title": "Leschi Wall",
-        "type": "divesite",
+        "tags": [ "shore" ]
         "description": "Leschi Wall",
         "marker-size": "medium",
         "marker-color": "#f44"
@@ -187,7 +187,7 @@
       "type": "Feature",
       "properties": {
         "title": "Edmonds Underwater Park",
-        "type": "divesite",
+        "tags": [ "shore" ]
         "description": "Edmonds Underwater Park",
         "marker-size": "medium",
         "marker-color": "#f44"
@@ -201,7 +201,7 @@
       "type": "Feature",
       "properties": {
         "title": "Les Davis",
-        "type": "divesite",
+        "tags": [ "shore" ]
         "description": "Les Davis",
         "marker-size": "medium",
         "marker-color": "#f44"
@@ -215,7 +215,7 @@
       "type": "Feature",
       "properties": {
         "title": "Day Island Wall",
-        "type": "divesite",
+        "tags": [ "shore", "boat" ]
         "description": "Day Island Wall",
         "marker-size": "medium",
         "marker-color": "#f44"
@@ -228,8 +228,8 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Reuben Tarte Picnic Area",
-        "type": "divesite",
+        "title": "San Juan Island - Reuben Tarte Picnic Area",
+        "tags": [ "shore", "fischnaller" ]
         "description": "",
         "marker-size": "medium",
         "marker-color": "#f44"
@@ -242,8 +242,8 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "San Juan County Park",
-        "type": "divesite",
+        "title": "San Juan Island - San Juan County Park",
+        "tags": [ "shore", "fischnaller" ]
         "description": "",
         "marker-size": "medium",
         "marker-color": "#f44"
@@ -256,8 +256,8 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Lime Kiln Point State Park",
-        "type": "divesite",
+        "title": "San Juan Island - Lime Kiln Point State Park",
+        "tags": [ "shore", "fischnaller" ]
         "description": "",
         "marker-size": "medium",
         "marker-color": "#f44"
@@ -270,8 +270,8 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Deadman Bay",
-        "type": "divesite",
+        "title": "San Juan Island - Deadman Bay",
+        "tags": [ "shore", "fischnaller" ]
         "description": "",
         "marker-size": "medium",
         "marker-color": "#f44"
@@ -284,9 +284,8 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Eagle Cove",
-        "type": "divesite",
-        "tags": [ "fischnaller", "shore" ],
+        "title": "San Juan Island - Eagle Cove",
+        "tags": [ "shore", "fischnaller" ]
         "description": "",
         "marker-size": "medium",
         "marker-color": "#f44"
@@ -299,8 +298,8 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "South Beach",
-        "type": "divesite",
+        "title": "San Juan Island - South Beach",
+        "tags": [ "shore", "fischnaller" ]
         "description": "",
         "marker-size": "medium",
         "marker-color": "#f44"
@@ -313,8 +312,204 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Orcas Island - Doe Bay",
+        "tags": [ "shore", "fischnaller" ]
+        "description": "",
+        "marker-size": "medium",
+        "marker-color": "#f44"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -122.785209, 48.638141 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Orcas Island - Brown Rock",
+        "tags": [ "shore", "fischnaller" ]
+        "description": "",
+        "marker-size": "medium",
+        "marker-color": "#f44"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -122.810905, 48.604652 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Lopez Island - Odlin County Park",
+        "tags": [ "shore", "fischnaller" ]
+        "description": "",
+        "marker-size": "medium",
+        "marker-color": "#f44"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -122.892412, 48.557701 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Lopez Island - Spencer Spit State Park",
+        "tags": [ "shore", "fischnaller" ]
+        "description": "",
+        "marker-size": "medium",
+        "marker-color": "#f44"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -122.85646, 48.533395 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Lopez Island - Agate Beach County Park",
+        "tags": [ "shore", "fischnaller" ]
+        "description": "",
+        "marker-size": "medium",
+        "marker-color": "#f44"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -122.880203, 48.42814 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Rosario Strait - Washington Park ",
+        "tags": [ "shore", "fischnaller" ]
+        "description": "",
+        "marker-size": "medium",
+        "marker-color": "#f44"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -122.703166, 48.494501 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Rosario Strait - Burrows Pass",
+        "tags": [ "shore", "fischnaller" ]
+        "description": "",
+        "marker-size": "medium",
+        "marker-color": "#f44"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -122.691804, 48.490032 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Rosario Strait - Rosario Beach",
+        "tags": [ "shore", "fischnaller" ]
+        "description": "",
+        "marker-size": "medium",
+        "marker-color": "#f44"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -122.66481, 48.417798 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "",
+        "tags": [ "shore", "fischnaller" ]
+        "description": "",
+        "marker-size": "medium",
+        "marker-color": "#f44"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "",
+        "tags": [ "shore", "fischnaller" ]
+        "description": "",
+        "marker-size": "medium",
+        "marker-color": "#f44"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "",
+        "tags": [ "shore", "fischnaller" ]
+        "description": "",
+        "marker-size": "medium",
+        "marker-color": "#f44"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "",
+        "tags": [ "shore", "fischnaller" ]
+        "description": "",
+        "marker-size": "medium",
+        "marker-color": "#f44"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "",
+        "tags": [ "shore", "fischnaller" ]
+        "description": "",
+        "marker-size": "medium",
+        "marker-color": "#f44"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "",
+        "tags": [ "shore", "fischnaller" ]
+        "description": "",
+        "marker-size": "medium",
+        "marker-color": "#f44"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Monster Outflow",
-        "type": "stormdrain",
+        "tags": [ "shore", "stormdrain" ]
         "description": "Monster Outflow (Location Appx)",
         "marker-size": "medium",
         "marker-color": "#44f"
