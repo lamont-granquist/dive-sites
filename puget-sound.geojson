@@ -228,6 +228,329 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Reuben Tarte Picnic Area",
+        "type": "divesite",
+        "description": "",
+        "marker-size": "medium",
+        "marker-color": "#f44"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -123.098341, 48.613268 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "San Juan County Park",
+        "type": "divesite",
+        "description": "",
+        "marker-size": "medium",
+        "marker-color": "#f44"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [  -123.16213, 48.541959 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Lime Kiln Point State Park",
+        "type": "divesite",
+        "description": "",
+        "marker-size": "medium",
+        "marker-color": "#f44"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -123.152554,  48.515165 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Deadman Bay",
+        "type": "divesite",
+        "description": "",
+        "marker-size": "medium",
+        "marker-color": "#f44"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -123.145999, 48.512287 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Eagle Cove",
+        "type": "divesite",
+        "tags": [ "fischnaller", "shore" ],
+        "description": "",
+        "marker-size": "medium",
+        "marker-color": "#f44"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -123.03087, 48.459419 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "South Beach",
+        "type": "divesite",
+        "description": "",
+        "marker-size": "medium",
+        "marker-color": "#f44"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -122.987673, 48.453385 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "",
+        "type": "divesite",
+        "description": "",
+        "marker-size": "medium",
+        "marker-color": "#f44"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "",
+        "type": "divesite",
+        "description": "",
+        "marker-size": "medium",
+        "marker-color": "#f44"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "",
+        "type": "divesite",
+        "description": "",
+        "marker-size": "medium",
+        "marker-color": "#f44"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "",
+        "type": "divesite",
+        "description": "",
+        "marker-size": "medium",
+        "marker-color": "#f44"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "",
+        "type": "divesite",
+        "description": "",
+        "marker-size": "medium",
+        "marker-color": "#f44"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "",
+        "type": "divesite",
+        "description": "",
+        "marker-size": "medium",
+        "marker-color": "#f44"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "",
+        "type": "divesite",
+        "description": "",
+        "marker-size": "medium",
+        "marker-color": "#f44"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "",
+        "type": "divesite",
+        "description": "",
+        "marker-size": "medium",
+        "marker-color": "#f44"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "",
+        "type": "divesite",
+        "description": "",
+        "marker-size": "medium",
+        "marker-color": "#f44"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "",
+        "type": "divesite",
+        "description": "",
+        "marker-size": "medium",
+        "marker-color": "#f44"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "",
+        "type": "divesite",
+        "description": "",
+        "marker-size": "medium",
+        "marker-color": "#f44"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "",
+        "type": "divesite",
+        "description": "",
+        "marker-size": "medium",
+        "marker-color": "#f44"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "",
+        "type": "divesite",
+        "description": "",
+        "marker-size": "medium",
+        "marker-color": "#f44"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "",
+        "type": "divesite",
+        "description": "",
+        "marker-size": "medium",
+        "marker-color": "#f44"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "",
+        "type": "divesite",
+        "description": "",
+        "marker-size": "medium",
+        "marker-color": "#f44"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "",
+        "type": "divesite",
+        "description": "",
+        "marker-size": "medium",
+        "marker-color": "#f44"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "",
+        "type": "divesite",
+        "description": "",
+        "marker-size": "medium",
+        "marker-color": "#f44"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Monster Outflow",
         "type": "stormdrain",
         "description": "Monster Outflow (Location Appx)",
