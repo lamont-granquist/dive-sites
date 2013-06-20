@@ -509,7 +509,7 @@
       "type": "Feature",
       "properties": {
         "title": "Lake Crescent - East Beach",
-        "tags": [ "shore", "fischnaller" ]
+        "tags": [ "shore" ]
         "description": "East Beach is closed to diving from Apr 30 thru Sept 30",
         "marker-size": "medium",
         "marker-color": "#f44"
@@ -523,7 +523,7 @@
       "type": "Feature",
       "properties": {
         "title": "Lake Crescent - Sledgehammer Wall",
-        "tags": [ "shore", "fischnaller" ]
+        "tags": [ "shore" ]
         "description": "",
         "marker-size": "medium",
         "marker-color": "#f44"
