@@ -424,7 +424,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "",
+        "title": "Pinnacle Rock",
         "tags": [ "shore", "fischnaller" ]
         "description": "",
         "marker-size": "medium",
@@ -432,13 +432,13 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [ ]
+        "coordinates": [ -124.520078, 48.347219 ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "title": "",
+        "title": "One-Mile Beach",
         "tags": [ "shore", "fischnaller" ]
         "description": "",
         "marker-size": "medium",
@@ -446,13 +446,13 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [ ]
+        "coordinates": [ -124.32174, 48.273875 ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "title": "",
+        "title": "Sekiu Jetty",
         "tags": [ "shore", "fischnaller" ]
         "description": "",
         "marker-size": "medium",
@@ -460,13 +460,13 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [ ]
+        "coordinates": [ -124.296345, 48.266219 ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "title": "",
+        "title": "Salt Creek County Park",
         "tags": [ "shore", "fischnaller" ]
         "description": "",
         "marker-size": "medium",
@@ -474,13 +474,13 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [ ]
+        "coordinates": [ -123.707428, 48.168103 ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "title": "",
+        "title": "Freshwater Bay County Park",
         "tags": [ "shore", "fischnaller" ]
         "description": "",
         "marker-size": "medium",
@@ -488,13 +488,13 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [ ]
+        "coordinates": [ -123.633893, 48.150626 ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "title": "",
+        "title": "North Beach",
         "tags": [ "shore", "fischnaller" ]
         "description": "",
         "marker-size": "medium",
@@ -502,7 +502,35 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [ ]
+        "coordinates": [ -122.782077, 48.142924 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Lake Crescent - East Beach",
+        "tags": [ "shore", "fischnaller" ]
+        "description": "East Beach is closed to diving from Apr 30 thru Sept 30",
+        "marker-size": "medium",
+        "marker-color": "#f44"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -123.744791, 48.085609 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Lake Crescent - Sledgehammer Wall",
+        "tags": [ "shore", "fischnaller" ]
+        "description": "",
+        "marker-size": "medium",
+        "marker-color": "#f44"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -123.773692, 48.073233 ]
       }
     },
     {
