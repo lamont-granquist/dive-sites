@@ -187,7 +187,7 @@
       "type": "Feature",
       "properties": {
         "title": "Edmonds Underwater Park",
-        "tags": [ "shore" ],
+        "tags": [ "shore", "fischnaller" ],
         "description": "Edmonds Underwater Park",
         "marker-size": "medium",
         "marker-color": "#f44"
@@ -531,6 +531,469 @@
       "geometry": {
         "type": "Point",
         "coordinates": [ -123.773692, 48.073233 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Union Wharf",
+        "tags": [ "shore", "fischnaller" ],
+        "description": "",
+        "marker-size": "medium",
+        "marker-color": "#f44"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -122.755002, 48.114276 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Fort Flagler State Park Fishing Pier",
+        "tags": [ "shore", "fischnaller" ],
+        "description": "",
+        "marker-size": "medium",
+        "marker-color": "#f44"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -122.692094, 48.091281 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Keystone State Park",
+        "tags": [ "shore", "fischnaller" ],
+        "description": "",
+        "marker-size": "medium",
+        "marker-color": "#f44"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -122.669708, 48.156846 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Kayak Point County Park",
+        "tags": [ "shore", "fischnaller" ],
+        "description": "",
+        "marker-size": "medium",
+        "marker-color": "#f44"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -122.368534, 48.138213 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Mukilteo State Park",
+        "tags": [ "shore", "fischnaller" ],
+        "description": "",
+        "marker-size": "medium",
+        "marker-color": "#f44"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -122.30871, 47.946457 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Picnic Point County Park",
+        "tags": [ "shore", "fischnaller" ],
+        "description": "",
+        "marker-size": "medium",
+        "marker-color": "#f44"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -122.336251, 47.879909 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Edmonds Oil Dock",
+        "aliases: [ "Edmonds Marina Beach" ],
+        "tags": [ "shore", "fischnaller" ],
+        "description": "",
+        "marker-size": "medium",
+        "marker-color": "#f44"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -122.396611, 47.804047 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Richmond Beach Park",
+        "tags": [ "shore", "fischnaller" ],
+        "description": "",
+        "marker-size": "medium",
+        "marker-color": "#f44"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -122.387674, 47.763352 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Alki Beach Park",
+        "tags": [ "shore", "fischnaller" ],
+        "description": "",
+        "marker-size": "medium",
+        "marker-color": "#f44"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -122.409453, 47.581505 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Agate Pass",
+        "tags": [ "shore", "fischnaller" ],
+        "description": "",
+        "marker-size": "medium",
+        "marker-color": "#f44"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -122.564386, 47.71215 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Fay Bainbridge State Park",
+        "tags": [ "shore", "fischnaller" ],
+        "description": "",
+        "marker-size": "medium",
+        "marker-color": "#f44"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -122.505573, 47.704758 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Fort Ward State Park",
+        "tags": [ "shore", "fischnaller" ],
+        "description": "",
+        "marker-size": "medium",
+        "marker-color": "#f44"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -122.531065, 47.585572 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Illahee State Park",
+        "tags": [ "shore", "fischnaller" ],
+        "description": "",
+        "marker-size": "medium",
+        "marker-color": "#f44"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -122.595899, 47.60085 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Warren Avenue Bridge",
+        "tags": [ "shore", "fischnaller" ],
+        "description": "",
+        "marker-size": "medium",
+        "marker-color": "#f44"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -122.631752, 47.578359 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Port Washington Narrows",
+        "tags": [ "shore", "fischnaller" ],
+        "description": "",
+        "marker-size": "medium",
+        "marker-color": "#f44"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -122.619138, 47.570866 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Ed Munro Seahurst Park",
+        "tags": [ "shore", "fischnaller" ],
+        "description": "",
+        "marker-size": "medium",
+        "marker-color": "#f44"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Three Tree Point, North",
+        "tags": [ "shore", "fischnaller" ],
+        "description": "",
+        "marker-size": "medium",
+        "marker-color": "#f44"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Three Tree Point, South",
+        "tags": [ "shore", "fischnaller" ],
+        "description": "",
+        "marker-size": "medium",
+        "marker-color": "#f44"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Salt Water State Park",
+        "tags": [ "shore", "fischnaller" ],
+        "description": "",
+        "marker-size": "medium",
+        "marker-color": "#f44"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Sunrise Beach County Park",
+        "tags": [ "shore", "fischnaller" ],
+        "description": "",
+        "marker-size": "medium",
+        "marker-color": "#f44"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Titlow Marine Sanctuary",
+        "tags": [ "shore", "fischnaller" ],
+        "description": "",
+        "marker-size": "medium",
+        "marker-color": "#f44"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Fox Island Fishing Pier",
+        "tags": [ "shore", "fischnaller" ],
+        "description": "",
+        "marker-size": "medium",
+        "marker-color": "#f44"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Fox Island Bridge",
+        "tags": [ "shore", "fischnaller" ],
+        "description": "",
+        "marker-size": "medium",
+        "marker-color": "#f44"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Fox Island West Wall",
+        "tags": [ "shore", "fischnaller" ],
+        "description": "",
+        "marker-size": "medium",
+        "marker-color": "#f44"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Sunnyside Beach Park",
+        "tags": [ "shore", "fischnaller" ],
+        "description": "",
+        "marker-size": "medium",
+        "marker-color": "#f44"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Tolmie Underwater State Park",
+        "tags": [ "shore", "fischnaller" ],
+        "description": "",
+        "marker-size": "medium",
+        "marker-color": "#f44"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "",
+        "tags": [ "shore", "fischnaller" ],
+        "description": "Scenic Beach State Park",
+        "marker-size": "medium",
+        "marker-color": "#f44"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "",
+        "tags": [ "shore", "fischnaller" ],
+        "description": "Hood Canal Bridge",
+        "marker-size": "medium",
+        "marker-color": "#f44"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "",
+        "tags": [ "shore", "fischnaller" ],
+        "description": "Octopus Hole",
+        "marker-size": "medium",
+        "marker-color": "#f44"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "",
+        "tags": [ "shore", "fischnaller" ],
+        "description": "Sund Rock",
+        "marker-size": "medium",
+        "marker-color": "#f44"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "",
+        "tags": [ "shore", "fischnaller" ],
+        "description": "Potlatch State Park",
+        "marker-size": "medium",
+        "marker-color": "#f44"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "",
+        "tags": [ "shore", "fischnaller" ],
+        "description": "Twanoh State Park",
+        "marker-size": "medium",
+        "marker-color": "#f44"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Redondo",
+        "tags": [ "shore" ],
+        "description": "",
+        "marker-size": "medium",
+        "marker-color": "#f44"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ ]
       }
     },
     {
